@@ -1,0 +1,38 @@
+.img-properties{
+    width: 20rem;
+    height: 20rem;
+}
+
+ .img-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 5px 5px 20px 1px rgb(216, 192, 192);
+    margin: 1%;
+    padding: 2%;
+     
+ }
+
+ .product-text{
+    text-align: left;
+    height: 20%;
+    font-size: 20px;
+    font-weight: 700;
+ }
+
+ 
+
+.product-heart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.sign-in{
+    text-decoration: underline;
+}
+
+@media screen and (min-width:768px) {
+    
+    
+}
